@@ -90,10 +90,6 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
-    background: url("img/texture-paper.png");
-    background-size: 280px 280px;
-}
 
 .b-parallax {
     background-attachment: fixed;
@@ -285,6 +281,7 @@ a:hover {
 
 #bloc-2-services p {
     font-size: 11px;
+    color: #364577;
 }
 
 .navbar {
@@ -1062,4 +1059,8 @@ h4 {
     border: 1px solid #ccc;
     border-radius: 4px;
     
+}
+
+.text-center.h2{
+    color: #364577;
 }
