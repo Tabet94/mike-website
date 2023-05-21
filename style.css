@@ -1048,14 +1048,16 @@ h4 {
     font-weight: 700;
     margin-right: -35px;
 }
-.row.col-sm-4{
+.partner {
     display: flex;
     flex-direction: row;
     justify-content: center;
     text-align: center;
     width: 100%;
-    font-size: 16px;
+    font-size: 18px;
+    justify-content: space-around;
 }
+
 
 @media (max-width: 400px) {
     .bloc {
