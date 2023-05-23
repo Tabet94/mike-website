@@ -1057,6 +1057,9 @@ h4 {
     font-size: 18px;
     justify-content: space-around;
 }
+.fa-chevron-up{
+    color: #FFFFFF;
+}
 
 
 @media (max-width: 400px) {
