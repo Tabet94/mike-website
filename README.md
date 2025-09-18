@@ -48,4 +48,4 @@ The project involved:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Tabet94/go-mike-designs-optimization.git
+   git clone https://github.com/Tabet94/mike-website.git
